@@ -11,4 +11,4 @@
 
 安装教程 xxxx xxxx xxxx 使用说明 xxxx xxxx xxxx 参与贡献 Fork 本仓库 新建 Feat_xxx 分支 提交代码 新建 Pull Request
 
-下载地址 https://share.feijipan.com/s/kVeiU8yi
+下载地址 https://share.feijipan.com/s/iAbxZT6g
